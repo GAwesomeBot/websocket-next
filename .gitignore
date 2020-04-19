@@ -62,3 +62,7 @@ docs
 \.idea/
 desktop.ini
 dist/
+
+# rust
+/target
+Cargo.lock
